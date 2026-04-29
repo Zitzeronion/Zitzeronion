@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at the [RCPE](https://www.rcpe.at/en/en_home/) as a Senior Scientist and CFD-Groupleader. I help with problems related to computational fluid dynamics, molecular dynamics, powders and pills 💊.
 - 👯 I’m looking to collaborate on projects that are potentially relevant to the pharmaceutical sector 🏥, both scientific and industrial.  
 - 📫 Feel free to reach out and open a issue or PM on bsky if you would like to get in touch.
-- ✈️ My journey far has been: Physics major in Austria 🇦🇹, a PhD in Germany 🇩🇪, a Postdoc in Denmark 🇩🇰 and currently Senior Scientist at the RCPE i Austria 🇦🇹. If you get the chance to visit Copenhagen, definitely do it, it’s such a lovely place with delicious coffee! Erlangen has also a very special charm and a rich beer culture 🍺.  
+- ✈️ My journey so far has been: Physics major in Austria 🇦🇹, a PhD in Germany 🇩🇪, a Postdoc in Denmark 🇩🇰 and currently Senior Scientist at the RCPE i Austria 🇦🇹. If you get the chance to visit Copenhagen, definitely do it, it’s such a lovely place with delicious coffee! Erlangen has also a very special charm and a rich beer culture 🍺.  
 
 <!--
 **Zitzeronion/Zitzeronion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
