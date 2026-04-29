@@ -4,7 +4,7 @@
 - 👀 I’m broadly interested in physics and computational fluid dynamics. My main expertise is in the fluid dynamics of thin liquid films and the lattice Boltzmann method. Usually computational fluid dynamics goes hand in hand with a stupid amount of data, although I like fancy 3D animations, I enjoy a simple graph 📈 even more.
 - 🔭 I’m currently working at the [RCPE](https://www.rcpe.at/en/en_home/) as a Senior Scientist and CFD-Groupleader. I help with problems related to computational fluid dynamics, molecular dynamics, powders and pills 💊.
 - 👯 I’m looking to collaborate on projects that are potentially relevant to the pharmaceutical sector 🏥, both scientific and industrial.  
-- 📫 Feel free to reach out and open a issue or PM on bsky if you would like to get in touch.
+- 📫 Feel free to reach out and open an issue or PM me on bsky if you would like to get in touch.
 - ✈️ My journey so far has been: Physics major in Austria 🇦🇹, a PhD in Germany 🇩🇪, a Postdoc in Denmark 🇩🇰 and currently Senior Scientist at the RCPE i Austria 🇦🇹. If you get the chance to visit Copenhagen, definitely do it, it’s such a lovely place with delicious coffee! Erlangen has also a very special charm and a rich beer culture 🍺.  
 
 <!--
